@@ -1,0 +1,35 @@
+body{
+	background-image: url("zurag.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+body div{
+	text-align: center;
+}
+.left:hover{
+	cursor: pointer;
+}
+.right:hover{
+	cursor: pointer;
+}
+.tbl1{
+	text-align: center;
+	background-color: rgb(169, 169, 169);
+}
+.row3{
+	background-color: darkolivegreen;
+	
+}
+.gray{
+	background-color: lightslategrey;
+}
+.black{
+	background-color: lightsteelblue;
+}
+#datepicker1{
+	padding-left: 40%;
+}
+#datepicker2{
+	padding-left: 40%;
+}
