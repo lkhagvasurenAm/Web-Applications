@@ -1,0 +1,22 @@
+/*
+CSS for the CS142 project #4 Problem #2 states component
+
+Since CSS uses a global name space for classes we should use names starting with
+cs142-states- here.
+*/
+
+
+.cs142-states-p2{
+    background-color: beige;
+    padding: 30px;
+    border: 1px solid;
+    position: absolute;
+}
+
+.cs142-states-ul{
+    font-style: italic;
+    line-height: 1.3;
+    padding: 50px;
+    padding-top: 20px;
+    border: 1px solid;
+}
