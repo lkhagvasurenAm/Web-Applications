@@ -1,1 +1,1 @@
-https://github.com/lkhagvasurenAm/web-developer/blob/master/cust_change.php
+https://raw.githubusercontent.com/lkhagvasurenAm/web-developer/refs/heads/master/cust_change.php
